@@ -150,4 +150,11 @@ npm start
 - PATCH `/wishlist`: Add to wishlist (user).
 - DELETE `/wishlist`: Remove from wishlist (user).
 - GET `/wishlist`: Get all items in a user's wishlist.
+  ## 📃 License
+This project is open-source and free to use for educational and prototyping purposes.
+
+## 🙋‍♀️ Author
+Monisha J.
+Designed and developed as part of backend internship at CodTech IT Solutions.
+
 
